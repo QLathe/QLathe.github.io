@@ -1384,6 +1384,10 @@ input, select, textarea {
 		letter-spacing: -0.015em;
 	}
 
+		a {
+		color: #363636;
+	}
+
 	h3, h4, h5, h6 {
 		font-size: 1.25em;
 		letter-spacing: -0.015em;
